@@ -1,0 +1,34 @@
+.card-columns{
+    column-count: 5;
+}
+.card{
+    background-color: rgba(77, 145, 247, 0.67);
+    color: blanchedalmond;
+    border:1px  chartreuse;
+    border-style: groove;
+    
+}
+
+.quotes{
+    margin-top: 100px;
+    color: rgb(228, 145, 11);
+    display: inline-flexbox
+}
+.maincontent{
+    background-image: assets/images/img
+}
+.container{
+    width: 80%;
+    float: left;
+}
+.popularQuote{
+    width: 20%;
+    float: right;
+}
+/* .card-columns{
+    column-count: 5;
+} */
+.card-title:hover{
+    color: blanchedalmond; 
+    text-decoration-line: underline ;
+}
